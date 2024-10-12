@@ -1,16 +1,26 @@
-## Hi there 👋
+# Lily - O Bot do WhatsApp
 
-<!--
-**Lilybotia/Lilybotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lily Bot](https://i.imgur.com/zX2nXuc.jpeg)
 
-Here are some ideas to get you started:
+## Sobre o Projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lily é um bot do WhatsApp desenvolvido para automatizar interações, gerenciar grupos e fornecer informações úteis. Este bot foi criado com a base do [matheus](https://github.com/m4thxyz).
+
+## Desenvolvedor
+
+Este projeto foi desenvolvido por **Nick**. Confira seu perfil no GitHub: [Nickzindev](https://github.com/Nickzindev).
+
+## Funcionalidades
+
+- Envio de mensagens automáticas
+- Gerenciamento de grupos
+- Jogo da Forca e outros jogos interativos
+- Respostas personalizadas
+
+## Visão
+
+Lily está pronta para dominar o mundo, começando por sua cidade! Adicione-a aos seus grupos e veja a mágica acontecer.
+
+---
+
+Siga o desenvolvedor no GitHub: [Nickzindev](https://github.com/Nickzindev)
